@@ -2,7 +2,7 @@
 
 Welcome to the React Lottery Game repository! This project is a simple web application built with React.js that simulates a lottery drawing. Users can choose their numbers and see if they match the winning combination.
 
-![Lottery Game Screenshot](./images/lottery-game-screenshot.png)
+![Lottery Game Screenshot](./lottery-game-ss.png)
 
 ## Features
 
